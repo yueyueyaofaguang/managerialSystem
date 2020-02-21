@@ -1,0 +1,844 @@
+2020-02-19 02:12:17.178 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 29991 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 02:12:17.184 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 02:12:19.213 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 02:12:19.225 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 02:12:19.226 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 02:12:19.227 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 02:12:19.320 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 02:12:19.320 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2060 ms
+2020-02-19 02:12:19.568 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 02:12:19.746 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 02:12:19.817 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 02:12:19.829 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 3.471 seconds (JVM running for 4.309)
+2020-02-19 02:12:22.842 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 02:12:26.958 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 30002 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 02:12:26.961 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 02:12:28.338 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 02:12:28.349 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 02:12:28.350 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 02:12:28.350 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 02:12:28.456 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 02:12:28.456 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1442 ms
+2020-02-19 02:12:28.675 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 02:12:28.859 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 02:12:28.911 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 02:12:28.917 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 2.653 seconds (JVM running for 3.336)
+2020-02-19 02:12:31.324 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 02:12:35.598 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 30006 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 02:12:35.602 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 02:12:36.718 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 02:12:36.727 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 02:12:36.728 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 02:12:36.728 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 02:12:36.826 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 02:12:36.826 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1127 ms
+2020-02-19 02:12:37.074 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 02:12:37.249 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 02:12:37.287 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 02:12:37.294 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 2.39 seconds (JVM running for 3.117)
+2020-02-19 10:33:50.804 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 10:33:57.504 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 31986 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 10:33:57.513 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 10:33:58.851 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 10:33:58.868 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 10:33:58.870 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 10:33:58.871 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 10:33:59.054 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 10:33:59.055 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1435 ms
+2020-02-19 10:33:59.318 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 10:33:59.548 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 10:33:59.593 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 10:33:59.597 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 2.851 seconds (JVM running for 3.914)
+2020-02-19 10:35:28.114 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:26:13.817 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32172 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:26:13.821 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:26:16.471 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:26:17.341 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:26:17.449 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:26:17.471 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 11:27:04.400 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32179 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:27:04.408 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:27:07.091 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:27:07.927 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:27:08.014 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:27:08.028 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 11:29:42.513 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32185 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:29:42.517 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:29:45.826 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:29:46.466 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:29:46.655 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:29:46.671 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 11:31:27.887 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32194 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:31:27.898 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:31:30.735 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:31:31.487 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:31:31.603 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:31:31.633 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 11:33:13.275 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32200 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:33:13.281 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:33:16.144 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:33:16.812 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:33:16.910 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:33:16.926 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 11:34:59.510 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32205 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:34:59.518 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:35:02.074 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:35:02.733 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:35:02.814 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:35:02.831 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 11:36:32.182 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32216 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:36:32.185 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:36:34.621 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:36:35.241 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:36:35.326 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:36:35.341 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 11:37:00.761 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32221 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:37:00.763 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:37:02.974 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:37:03.388 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:37:03.589 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:37:03.606 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 11:38:48.504 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32230 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:38:48.508 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:38:51.165 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:38:51.881 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:38:51.979 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:38:51.999 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 11:39:12.670 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32239 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:39:12.671 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:39:14.820 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:39:15.390 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:39:15.468 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:39:15.492 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 11:42:37.242 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32262 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:42:37.245 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:42:39.461 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:42:40.050 [main] INFO  com.fridy.backend.BackendApplicationTests - Started BackendApplicationTests in 3.775 seconds (JVM running for 6.001)
+2020-02-19 11:42:40.698 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:43:39.929 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32268 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:43:39.935 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:43:42.311 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:43:42.936 [main] INFO  com.fridy.backend.BackendApplicationTests - Started BackendApplicationTests in 4.25 seconds (JVM running for 6.554)
+2020-02-19 11:43:43.456 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:45:00.994 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32277 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:45:00.999 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:45:03.461 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:45:04.127 [main] INFO  com.fridy.backend.BackendApplicationTests - Started BackendApplicationTests in 4.38 seconds (JVM running for 7.017)
+2020-02-19 11:45:04.606 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:47:27.346 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32293 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:47:27.358 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:47:29.902 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:47:31.197 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:47:31.330 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:47:31.364 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 11:50:11.863 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32301 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:50:11.870 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:50:13.917 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:50:14.423 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:50:14.489 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:50:14.507 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 11:54:06.633 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32316 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:54:06.639 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:54:09.167 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:54:09.768 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:54:10.027 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:54:10.039 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 11:54:58.129 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32336 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 11:54:58.132 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 11:55:00.720 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:55:01.331 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 11:55:01.600 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:55:01.618 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 12:00:45.942 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32358 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:00:45.946 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 12:00:48.575 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:00:49.839 [main] INFO  com.fridy.backend.BackendApplicationTests - Started BackendApplicationTests in 5.776 seconds (JVM running for 8.214)
+2020-02-19 12:00:50.733 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 12:00:50.734 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:03:53.539 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32377 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:03:53.542 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 12:03:56.023 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:03:57.021 [main] INFO  com.fridy.backend.BackendApplicationTests - Started BackendApplicationTests in 4.45 seconds (JVM running for 6.662)
+2020-02-19 12:03:57.535 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 12:03:57.539 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:04:41.706 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32386 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:04:41.709 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 12:04:43.912 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:04:44.916 [main] INFO  com.fridy.backend.BackendApplicationTests - Started BackendApplicationTests in 4.062 seconds (JVM running for 6.152)
+2020-02-19 12:04:45.290 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 12:04:45.293 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:05:51.499 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32394 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:05:51.557 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 12:05:54.100 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:05:54.707 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:05:54.719 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 12:06:40.548 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32403 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:06:40.551 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 12:06:43.344 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:06:44.272 [main] INFO  com.fridy.backend.BackendApplicationTests - Started BackendApplicationTests in 4.839 seconds (JVM running for 7.108)
+2020-02-19 12:06:44.833 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 12:06:44.835 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:07:58.000 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32409 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:07:58.003 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 12:08:00.440 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:08:01.382 [main] INFO  com.fridy.backend.BackendApplicationTests - Started BackendApplicationTests in 4.709 seconds (JVM running for 6.982)
+2020-02-19 12:08:01.908 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 12:08:01.910 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:10:24.364 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32416 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:10:24.369 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 12:10:27.306 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:10:28.416 [main] INFO  com.fridy.backend.BackendApplicationTests - Started BackendApplicationTests in 5.332 seconds (JVM running for 9.057)
+2020-02-19 12:11:03.900 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 12:11:03.901 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:11:09.062 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32421 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:11:09.064 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 12:11:11.124 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:11:11.988 [main] INFO  com.fridy.backend.BackendApplicationTests - Started BackendApplicationTests in 3.857 seconds (JVM running for 7.014)
+2020-02-19 12:11:12.273 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 12:11:12.275 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:14:03.153 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32431 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:14:03.156 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 12:14:05.550 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:14:06.495 [main] INFO  com.fridy.backend.BackendApplicationTests - Started BackendApplicationTests in 4.482 seconds (JVM running for 6.799)
+2020-02-19 12:14:07.059 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 12:14:07.061 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:14:34.018 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32437 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:14:34.021 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 12:14:36.515 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:14:37.195 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 12:14:37.458 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:14:37.473 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 12:16:18.181 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32444 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:16:18.185 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 12:16:20.920 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:16:21.514 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2020-02-19 12:16:21.798 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:16:21.813 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 12:16:44.530 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32450 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:16:44.533 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 12:16:47.790 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:16:48.859 [main] INFO  com.fridy.backend.BackendApplicationTests - Started BackendApplicationTests in 5.284 seconds (JVM running for 8.26)
+2020-02-19 12:16:49.380 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 12:16:49.382 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:22:03.071 [main] INFO  com.fridy.backend.BackendApplicationTests - Starting BackendApplicationTests on yueyueyueyuedeMacBook-Air.local with PID 32463 (started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:22:03.081 [main] INFO  com.fridy.backend.BackendApplicationTests - The following profiles are active: dev
+2020-02-19 12:22:05.656 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:22:06.852 [main] INFO  com.fridy.backend.BackendApplicationTests - Started BackendApplicationTests in 5.061 seconds (JVM running for 7.71)
+2020-02-19 12:22:07.356 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 12:22:07.358 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:22:38.641 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 32473 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 12:22:38.648 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 12:22:40.216 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 12:22:40.231 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 12:22:40.232 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 12:22:40.232 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 12:22:40.369 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 12:22:40.369 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1550 ms
+2020-02-19 12:22:40.595 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 12:22:40.939 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 12:22:40.986 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 12:22:40.990 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 3.33 seconds (JVM running for 4.216)
+2020-02-19 12:22:53.336 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 12:22:53.336 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 12:22:53.346 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2020-02-19 13:21:32.677 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 13:21:32.691 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 13:21:39.737 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 32597 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 13:21:39.741 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 13:21:41.501 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 13:21:41.513 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 13:21:41.516 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 13:21:41.516 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 13:21:41.609 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 13:21:41.610 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1669 ms
+2020-02-19 13:21:41.811 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 13:21:42.132 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 13:21:42.171 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 13:21:42.175 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 3.24 seconds (JVM running for 4.272)
+2020-02-19 14:04:46.329 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 14:04:46.337 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:10:20.426 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 32951 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:10:20.443 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:10:22.915 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:10:22.932 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:10:22.933 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:10:22.933 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:10:23.104 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:10:23.105 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2317 ms
+2020-02-19 15:10:23.248 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:10:23.297 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:11:29.462 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 32960 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:11:29.468 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:11:31.283 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:11:31.297 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:11:31.298 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:11:31.298 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:11:31.417 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:11:31.417 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1780 ms
+2020-02-19 15:11:31.485 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:11:31.517 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:11:59.634 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 32965 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:11:59.639 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:12:01.431 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:12:01.445 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:12:01.446 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:12:01.447 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:12:01.568 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:12:01.568 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1863 ms
+2020-02-19 15:12:01.637 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:12:01.662 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:12:28.366 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 32971 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:12:28.369 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:12:30.207 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:12:30.227 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:12:30.229 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:12:30.230 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:12:30.340 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:12:30.341 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1814 ms
+2020-02-19 15:12:30.403 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:12:30.427 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:12:49.880 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 32976 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:12:49.884 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:12:51.647 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:12:51.656 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:12:51.657 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:12:51.658 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:12:51.739 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:12:51.740 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1694 ms
+2020-02-19 15:12:52.020 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:12:52.450 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:12:52.495 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 15:12:52.499 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 3.488 seconds (JVM running for 4.365)
+2020-02-19 15:13:15.526 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 15:13:15.527 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 15:13:15.539 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 12 ms
+2020-02-19 15:13:46.214 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 15:13:46.217 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:13:51.918 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 32984 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:13:52.004 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:13:54.602 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:13:54.614 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:13:54.615 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:13:54.616 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:13:54.732 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:13:54.733 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2642 ms
+2020-02-19 15:13:55.235 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:13:55.682 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:13:55.733 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 15:13:55.739 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 4.913 seconds (JVM running for 6.653)
+2020-02-19 15:14:05.204 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 15:14:05.205 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 15:14:05.214 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2020-02-19 15:14:56.485 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 15:14:56.487 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:15:02.884 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 32992 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:15:02.907 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:15:04.600 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:15:04.612 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:15:04.614 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:15:04.614 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:15:04.715 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:15:04.716 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1631 ms
+2020-02-19 15:15:05.115 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:15:05.631 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:15:05.678 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 15:15:05.683 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 3.766 seconds (JVM running for 4.788)
+2020-02-19 15:15:08.795 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 15:15:08.796 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 15:15:08.802 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-02-19 15:15:14.626 [http-nio-8080-exec-1] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = ming)
+2020-02-19 15:15:36.822 [http-nio-8080-exec-1] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = ming)
+2020-02-19 15:15:36.905 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 15:15:36.908 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:15:42.266 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33000 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:15:42.269 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:15:44.100 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:15:44.112 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:15:44.114 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:15:44.116 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:15:44.289 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:15:44.290 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1879 ms
+2020-02-19 15:15:44.620 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:15:45.111 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:15:45.181 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 15:15:45.186 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 3.641 seconds (JVM running for 4.899)
+2020-02-19 15:15:46.654 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 15:15:46.655 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 15:15:46.662 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-02-19 15:15:46.693 [http-nio-8080-exec-1] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = ming)
+2020-02-19 15:16:06.347 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 15:16:06.348 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:16:12.126 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33008 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:16:12.129 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:16:14.027 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:16:14.038 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:16:14.039 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:16:14.040 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:16:14.130 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:16:14.131 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1834 ms
+2020-02-19 15:16:14.760 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:16:14.915 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:17:21.698 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33015 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:17:21.708 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:17:23.400 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:17:23.411 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:17:23.412 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:17:23.412 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:17:23.511 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:17:23.512 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1658 ms
+2020-02-19 15:17:23.572 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:17:23.597 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:18:06.588 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33020 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:18:06.593 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:18:09.675 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:18:09.697 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:18:09.698 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:18:09.698 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:18:09.839 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:18:09.840 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3104 ms
+2020-02-19 15:18:10.314 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:18:11.097 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33022 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:18:11.102 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:18:11.323 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:18:11.429 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 15:18:11.439 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 5.753 seconds (JVM running for 6.902)
+2020-02-19 15:18:17.041 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:18:17.090 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:18:17.093 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:18:17.094 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:18:17.702 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:18:17.704 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 6301 ms
+2020-02-19 15:18:19.880 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:18:25.437 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:18:25.485 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:18:25.487 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:18:25.530 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:18:25.531 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:18:25.546 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:18:25.617 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 15:18:25.629 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:18:27.896 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 15:18:27.897 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 15:18:27.909 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2020-02-19 15:18:27.949 [http-nio-8080-exec-1] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = ming)
+2020-02-19 15:18:30.756 [http-nio-8080-exec-2] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = ming)
+2020-02-19 15:18:40.660 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 15:18:40.662 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:18:47.569 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33031 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:18:47.578 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:18:51.884 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:18:51.929 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:18:51.932 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:18:51.934 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:18:52.483 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:18:52.485 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4735 ms
+2020-02-19 15:18:54.649 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:18:58.668 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:18:58.770 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 15:18:58.790 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 12.24 seconds (JVM running for 13.548)
+2020-02-19 15:19:01.748 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 15:19:01.749 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 15:19:01.825 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 75 ms
+2020-02-19 15:19:05.275 [http-nio-8080-exec-1] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = ming)
+2020-02-19 15:23:06.919 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 15:23:06.927 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:23:14.669 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33056 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:23:14.676 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:23:16.484 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:23:16.502 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:23:16.505 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:23:16.507 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:23:16.646 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:23:16.646 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1825 ms
+2020-02-19 15:23:16.713 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:23:16.740 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:23:44.290 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33061 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:23:44.309 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:23:45.868 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:23:45.880 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:23:45.882 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:23:45.882 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:23:46.001 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:23:46.001 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1553 ms
+2020-02-19 15:23:46.057 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:23:46.081 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:27:06.735 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33081 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:27:06.740 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:27:08.368 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:27:08.377 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:27:08.377 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:27:08.378 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:27:08.483 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:27:08.494 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1635 ms
+2020-02-19 15:27:08.562 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:27:08.585 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:28:36.369 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33089 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:28:36.383 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:28:38.531 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:28:38.542 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:28:38.543 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:28:38.544 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:28:38.620 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:28:38.620 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2115 ms
+2020-02-19 15:28:38.681 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:28:38.701 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:31:29.340 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33119 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:31:29.348 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:31:30.976 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:31:30.985 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:31:30.986 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:31:30.987 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:31:31.057 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:31:31.057 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1619 ms
+2020-02-19 15:31:31.115 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:31:31.135 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:32:44.976 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33126 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:32:44.980 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:32:47.547 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:32:47.569 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:32:47.570 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:32:47.571 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:32:47.813 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:32:47.814 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2658 ms
+2020-02-19 15:32:47.893 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:32:47.921 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:33:13.404 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33131 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:33:13.408 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:33:15.028 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:33:15.038 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:33:15.039 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:33:15.039 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:33:15.126 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:33:15.127 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1589 ms
+2020-02-19 15:33:15.192 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:33:15.218 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:40:07.345 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33198 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:40:07.351 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:40:09.158 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:40:09.170 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:40:09.171 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:40:09.172 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:40:09.290 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:40:09.291 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1852 ms
+2020-02-19 15:40:09.389 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-02-19 15:40:09.419 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 15:44:07.292 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33227 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:44:07.297 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:44:09.156 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:44:09.177 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:44:09.178 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:44:09.179 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:44:09.331 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:44:09.332 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1914 ms
+2020-02-19 15:44:09.959 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:44:10.344 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:44:10.395 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 15:44:10.401 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 4.022 seconds (JVM running for 5.405)
+2020-02-19 15:44:22.702 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 15:44:22.703 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 15:44:22.716 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 12 ms
+2020-02-19 15:44:42.024 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:44:42.026 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 15:44:47.733 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33236 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:44:47.743 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:44:49.506 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:44:49.517 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:44:49.518 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:44:49.518 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:44:49.652 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:44:49.653 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1800 ms
+2020-02-19 15:44:50.079 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:44:50.332 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:44:50.374 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 15:44:50.378 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 3.346 seconds (JVM running for 4.119)
+2020-02-19 15:44:55.734 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 15:44:55.734 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 15:44:55.742 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-02-19 15:44:55.775 [http-nio-8080-exec-1] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = ming)
+2020-02-19 15:44:59.486 [http-nio-8080-exec-2] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = ming)
+2020-02-19 15:49:14.328 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:49:14.339 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2020-02-19 15:49:14.341 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2020-02-19 15:49:32.332 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33254 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:49:32.335 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:49:34.162 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:49:34.175 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:49:34.176 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:49:34.177 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:49:34.313 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:49:34.314 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1774 ms
+2020-02-19 15:49:34.725 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:49:34.982 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:49:35.030 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 15:49:35.035 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 4.133 seconds (JVM running for 5.406)
+2020-02-19 15:50:06.123 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:50:06.128 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 15:54:20.851 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33299 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 15:54:20.876 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 15:54:22.669 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 15:54:22.690 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:54:22.692 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 15:54:22.695 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 15:54:22.896 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 15:54:22.897 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1899 ms
+2020-02-19 15:54:23.485 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 15:54:23.864 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 15:54:23.910 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 15:54:23.916 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 4.036 seconds (JVM running for 5.187)
+2020-02-19 15:54:33.722 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 15:54:33.723 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 15:54:33.736 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 12 ms
+2020-02-19 15:54:38.771 [http-nio-8080-exec-2] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = ming)
+2020-02-19 15:54:38.904 [http-nio-8080-exec-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-02-19 16:20:35.443 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 16:20:35.457 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2020-02-19 16:20:35.505 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2020-02-19 16:20:44.054 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33322 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 16:20:44.059 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 16:20:46.444 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 16:20:46.462 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 16:20:46.464 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 16:20:46.465 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 16:20:46.679 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 16:20:46.679 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2320 ms
+2020-02-19 16:20:47.612 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 16:20:47.853 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 16:20:47.896 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 16:20:47.901 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 4.987 seconds (JVM running for 7.101)
+2020-02-19 16:42:57.334 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 16:42:57.344 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 16:48:37.781 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33451 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 16:48:37.786 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 16:48:41.046 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 16:48:41.076 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 16:48:41.077 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 16:48:41.078 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 16:48:41.346 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 16:48:41.347 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3458 ms
+2020-02-19 16:48:42.106 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 16:48:42.288 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-02-19 16:48:42.558 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 16:48:42.606 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 16:48:42.612 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 6.023 seconds (JVM running for 7.69)
+2020-02-19 16:48:46.625 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 16:48:46.626 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 16:48:46.637 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2020-02-19 16:48:47.317 [http-nio-8080-exec-7] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = welcome.html)
+2020-02-19 16:48:47.425 [http-nio-8080-exec-7] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-02-19 16:51:37.492 [http-nio-8080-exec-8] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = welcome.html)
+2020-02-19 16:52:11.493 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 16:52:11.502 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2020-02-19 16:52:11.536 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2020-02-19 16:52:20.727 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33481 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 16:52:20.738 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 16:52:22.857 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 16:52:22.867 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 16:52:22.868 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 16:52:22.868 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 16:52:22.974 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 16:52:22.974 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2023 ms
+2020-02-19 16:52:23.369 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 16:52:23.434 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-02-19 16:52:23.607 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 16:52:23.649 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 16:52:23.654 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 4.156 seconds (JVM running for 5.236)
+2020-02-19 16:52:24.965 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 16:52:24.965 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 16:52:24.976 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2020-02-19 16:52:25.603 [http-nio-8080-exec-8] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = welcome.html)
+2020-02-19 16:52:25.683 [http-nio-8080-exec-8] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-02-19 16:53:07.594 [http-nio-8080-exec-1] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = welcome.html)
+2020-02-19 16:53:09.781 [http-nio-8080-exec-5] INFO  com.fridy.backend.controller.UserController - UserController.user():param(username = welcome.html)
+2020-02-19 16:53:16.140 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 16:53:16.141 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2020-02-19 16:53:16.156 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2020-02-19 16:53:27.257 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33500 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 16:53:27.270 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 16:53:29.354 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 16:53:29.380 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 16:53:29.381 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 16:53:29.381 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 16:53:29.469 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 16:53:29.470 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2036 ms
+2020-02-19 16:53:29.981 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 16:53:30.045 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-02-19 16:53:30.215 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 16:53:30.274 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 16:53:30.279 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 3.95 seconds (JVM running for 5.072)
+2020-02-19 16:53:34.208 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 16:53:34.209 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 16:53:34.214 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-02-19 16:59:58.396 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 16:59:58.407 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 17:21:35.188 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33713 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 17:21:35.196 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 17:21:38.963 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 17:21:39.018 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 17:21:39.020 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 17:21:39.021 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 17:21:39.245 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 17:21:39.245 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3848 ms
+2020-02-19 17:21:39.888 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 17:21:40.005 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-02-19 17:21:40.253 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 17:21:40.313 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 17:21:40.319 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 6.622 seconds (JVM running for 8.307)
+2020-02-19 17:21:45.991 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 17:21:45.992 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 17:21:46.005 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 13 ms
+2020-02-19 17:51:00.188 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 17:51:00.206 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 17:51:13.078 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33791 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 17:51:13.082 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 17:51:15.677 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 17:51:15.691 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 17:51:15.693 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 17:51:15.693 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 17:51:15.793 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 17:51:15.794 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2548 ms
+2020-02-19 17:51:16.251 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 17:51:16.405 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-02-19 17:51:16.770 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 17:51:16.847 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 17:51:16.854 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 5.528 seconds (JVM running for 6.859)
+2020-02-19 17:52:28.637 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 17:52:28.638 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 17:52:28.647 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2020-02-19 17:57:00.016 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 17:57:00.028 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 17:57:09.890 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33828 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 17:57:09.908 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 17:57:12.389 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 17:57:12.407 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 17:57:12.409 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 17:57:12.412 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 17:57:12.569 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 17:57:12.570 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2322 ms
+2020-02-19 17:57:13.207 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 17:57:13.281 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-02-19 17:57:13.469 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 17:57:13.514 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 17:57:13.524 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 4.842 seconds (JVM running for 6.057)
+2020-02-19 17:57:15.912 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 17:57:15.913 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 17:57:15.919 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-02-19 18:27:09.216 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 18:27:09.228 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 18:27:14.224 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33872 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 18:27:14.231 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 18:27:16.001 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 18:27:16.014 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 18:27:16.015 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 18:27:16.016 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 18:27:16.109 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 18:27:16.110 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1685 ms
+2020-02-19 18:27:16.592 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 18:27:16.786 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-02-19 18:27:16.965 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 18:27:17.016 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 18:27:17.021 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 3.789 seconds (JVM running for 4.783)
+2020-02-19 18:27:18.012 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 18:27:18.032 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 18:27:18.083 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 51 ms
+2020-02-19 18:30:16.443 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 18:30:16.449 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 18:30:21.169 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33891 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 18:30:21.175 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 18:30:23.399 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 18:30:23.410 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 18:30:23.412 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 18:30:23.412 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 18:30:23.600 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 18:30:23.600 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2178 ms
+2020-02-19 18:30:24.111 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 18:30:24.240 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-02-19 18:30:24.506 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 18:30:24.545 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 18:30:24.549 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 4.446 seconds (JVM running for 5.436)
+2020-02-19 18:30:31.742 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 18:30:31.743 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 18:30:31.750 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-02-19 18:31:22.158 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 18:31:22.161 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2020-02-19 18:31:28.286 [main] INFO  com.fridy.backend.BackendApplication - Starting BackendApplication on yueyueyueyuedeMacBook-Air.local with PID 33902 (/Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend/target/classes started by etsugatsukoshietsu in /Users/etsugatsukoshietsu/Projects/javaLearn/fridyBackend)
+2020-02-19 18:31:28.292 [main] INFO  com.fridy.backend.BackendApplication - The following profiles are active: dev
+2020-02-19 18:31:30.054 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-02-19 18:31:30.080 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-19 18:31:30.081 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-02-19 18:31:30.081 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 18:31:30.165 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-02-19 18:31:30.165 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1661 ms
+2020-02-19 18:31:30.600 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 18:31:30.748 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-02-19 18:31:30.980 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-19 18:31:31.025 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-19 18:31:31.031 [main] INFO  com.fridy.backend.BackendApplication - Started BackendApplication in 4.105 seconds (JVM running for 5.279)
+2020-02-19 18:31:31.993 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 18:31:31.993 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-02-19 18:31:32.001 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-02-19 20:53:29.470 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 20:53:29.533 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
