@@ -14,4 +14,8 @@ public interface UserService {
     SysUser searchByPhone(String telephone);
     SysUser searchByEmail(String email);
     SysUser searchByUsername(String username);
+    UserDto getUserById(Integer id);
+    Results editUser(Integer id, UserDto userDto);
+    void delectUserById(Integer id);
+    Results<SysUser> getUserByFuzzyUsername(Integer limit, Integer offset, String username);
 }

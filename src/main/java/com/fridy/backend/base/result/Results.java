@@ -38,7 +38,7 @@ public class Results<T> implements Serializable {
     }
 
     /**无数据传输的 成功返回*/
-    public static <T>Results<T> success(){
+    public static Results success(){
         return new Results(ResponseCode.SUCCESS.getCode(),ResponseCode.SUCCESS.getMessage());
     }
 

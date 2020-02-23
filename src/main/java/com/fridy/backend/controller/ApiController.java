@@ -12,15 +12,11 @@ import java.util.List;
 @Controller
 @RequestMapping("${api-url}")
 public class ApiController {
-    @Autowired
-    RoleService roleService;
     @RequestMapping("/getPage")
     public ModelAndView getPage(ModelAndView modelAndView,String pageName){
         modelAndView.setViewName(pageName);
-        if(pageName.equals("user/user-add")){
-            List<SysRole> roleList = roleService.getRoleList();
-            modelAndView.addObject("roles",roleList);
-        }
         return modelAndView;
     }
+
+
 }

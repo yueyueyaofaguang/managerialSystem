@@ -64,7 +64,7 @@
         //第一个实例
         table.render({
             elem: '#demo'
-            , url: '/user/list' //数据接口
+            , url: '/sysrole/list' //数据接口
             , page: true //开启分页
             , cols: [
                 [ //表头
@@ -98,7 +98,7 @@
                     layer.close(index);
                     //向服务端发送删除指令
                     $.ajax({
-                        url: "/user/del",
+                        url: "/sysrole/del",
                         type: "GET",
                         data: {
                             id: data.id
@@ -111,14 +111,14 @@
                     })
                 });
             } else if (layEvent === 'edit') {
-                xadmin.open('编辑', '/user/edit/' + data.id, 600, 400);
+                xadmin.open('编辑', '/sysrole/edit/' + data.id, 600, 400);
             }
         });
 
         form.on('submit(search)', function(data){
             console.log(data.field);
             table.reload('demo', {
-                url: '/user/select?username='+data.field.username
+                url: '/sysrole/select?username='+data.field.username
             });
             return false;
         });

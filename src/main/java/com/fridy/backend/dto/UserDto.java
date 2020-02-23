@@ -6,13 +6,6 @@ import lombok.Data;
 import java.util.Date;
 
 @Data
-public class UserDto {
-    private String username;
-    private String password;
-    private String nickname;
-    private String telephone;
-    private String email;
-    private Date birthday;
-    private Integer sex;
+public class UserDto extends SysUser{
     private Integer roleId;
 }

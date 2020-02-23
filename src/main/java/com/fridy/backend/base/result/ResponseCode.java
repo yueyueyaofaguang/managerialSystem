@@ -8,7 +8,8 @@ public enum ResponseCode {
     UNAUTHORIZED(401,"未授权"),
     EXITPHONE(50000,"电话号码已经存在"),
     EXITEMAIL(50001,"邮箱已经存在"),
-    EXITUSERNAME(50002,"用户名已经存在");
+    EXITUSERNAME(50002,"用户名已经存在"),
+    NOTEXITUSER(50003,"用户不存在");
     private Integer code;
     private String message;
 

@@ -1,5 +1,6 @@
 package com.fridy.backend.service.impl;
 
+import com.fridy.backend.base.result.ResponseCode;
 import com.fridy.backend.base.result.Results;
 import com.fridy.backend.dao.RoleUserDao;
 import com.fridy.backend.dao.UserDao;
@@ -11,6 +12,8 @@ import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.DigestUtils;
+
+import java.util.List;
 
 @Service
 public class UserServiceImp1<RoleUserDto> implements UserService {
@@ -31,8 +34,9 @@ public class UserServiceImp1<RoleUserDto> implements UserService {
 
     @Override
     public Results addUser(UserDto userDto) {
-        SysUser sysUser = new SysUser();
-        BeanUtils.copyProperties(userDto,sysUser);
+        SysUser sysUser = searchByPhone(userDto.getTelephone());
+        sysUser = new SysUser();
+        BeanUtils.copyProperties(userDto, sysUser);
         sysUser.setPassword(DigestUtils.md5DigestAsHex(sysUser.getPassword().getBytes()));
         sysUser.setStatus(1);
         userDao.add(sysUser);
@@ -57,5 +61,41 @@ public class UserServiceImp1<RoleUserDto> implements UserService {
     @Override
     public SysUser searchByUsername(String username) {
         return userDao.searchByUsername(username);
+    }
+
+    @Override
+    public UserDto getUserById(Integer id) {
+        SysUser sysUser = userDao.searchByUserId(id);
+        UserDto userDto = new UserDto();
+        BeanUtils.copyProperties(sysUser, userDto);
+        userDto.setRoleId(roleUserDao.getRoleByUserId(id).getRoleId());
+        return userDto;
+    }
+
+    @Override
+    public Results editUser(Integer id, UserDto userDto) {
+        SysUser sysUser = userDao.searchByUserId(id);
+        if (sysUser == null) {
+            return Results.fail(ResponseCode.NOTEXITUSER);
+        }
+        SysRoleUser userRole = roleUserDao.getRoleByUserId(sysUser.getId().intValue());
+        if(userDto.getRoleId() != userRole.getRoleId()){
+            userRole.setRoleId(userDto.getRoleId());
+            roleUserDao.updateRoleId(userRole);
+        }
+        BeanUtils.copyProperties(userDto,sysUser);
+        userDao.updateUser(sysUser);
+        return Results.success();
+    }
+
+    @Override
+    public void delectUserById(Integer id) {
+        userDao.delectUserById(id);
+    }
+
+    @Override
+    public Results<SysUser> getUserByFuzzyUsername(Integer limit, Integer offset, String username) {
+        List<SysUser> userByFuzzyUsername = userDao.getUserByFuzzyUsername(limit, offset, username);
+        return Results.succcess(userByFuzzyUsername.size(),userByFuzzyUsername);
     }
 }
